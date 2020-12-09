@@ -13,4 +13,4 @@ The classification features consist of the first Contrast, Homogeneity and Energ
 
 Using these 3 features, I classify the random objects to the 6 classes, using the classifiers mentioned above.
 
-To execute the code using MATLAB or GNU Octave, naviagte to the directory with the scripts and run [main.m](/main.m)
+To execute the code using MATLAB (GNU Octave is not supported due to the lack of co-occurence matrix related functions), naviagte to the directory with the scripts and run [main.m](/main.m)
